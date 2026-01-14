@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Yassmine
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Enthusiast;Problem+Solver;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 
@@ -13,10 +13,10 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Yassmine El Hamim"
+        self.name = "Yassmine ElHamim"
         self.role = "Full Stack Developer"
         self.languages = ["Python", "PHP", "JavaScript"]
-        self.interests = ["IoT", "Web Development", "Automation"]
+        self.interests = ["Web Development", "Automation","IoT" ]
     
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together!")
@@ -25,10 +25,9 @@ me = Developer()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **IoT & Web Development projects**
+- 🔭 Currently working on **Web Development projects**
 - 🌱 Learning advanced **Django** and **Laravel** techniques
 - 💬 Ask me about **Python, PHP, Laravel, Django, IoT**
-- ⚡ Fun fact: **I turn coffee into code!** ☕→💻
 
 ---
 
@@ -88,10 +87,10 @@ me.say_hi()
   <a href="https://github.com/YassmineElhamim">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yassmineelhamim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/yassmine-elhamim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -108,5 +107,4 @@ me.say_hi()
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>

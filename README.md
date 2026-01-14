@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Enthusiast;Problem+Solver;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YassmineElhamim&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 ---
 

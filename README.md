@@ -68,7 +68,10 @@ me.say_hi()
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassmineElhamim&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassmineElhamim&theme=react-dark&hide_border=true&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&area_color=f75c7e" alt="Activity Graph" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassmineElhamim&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
